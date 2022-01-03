@@ -66,10 +66,6 @@ pip3 install -r requirements.txt
 
 Vocë consegue usufruir o desenvolvimento da API ou mesmo colcaborar.
 
-<a href="https://github.com/Matheus-Nazario/Gamer_Nostalgia_Interactive/blob/main/jogos.py"><img src="https://i.ibb.co/yk6W1Fh/foto-jogo.jpg" alt="foto-jogo" border="0"></a>
-
-## _LET'S_ _GO_ _GAME_ 🏃🏽‍♀️💨
-
 </br>
 
 <center>
